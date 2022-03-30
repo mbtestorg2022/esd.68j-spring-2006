@@ -159,7 +159,7 @@ Lehr
 9
 {{< tdclose >}}
 {{< tdopen >}}
-Intellectual Property: Content and Digital Telecommunication Policy (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.1 MB]({{< baseurl >}}/resources/mod3b_lec1))
+Intellectual Property: Content and Digital Telecommunication Policy ([PDF - 1.1 MB]({{< baseurl >}}/resources/mod3b_lec1))
 {{< tdclose >}}
 {{< tdopen >}}
 Field
@@ -171,7 +171,7 @@ Field
 10
 {{< tdclose >}}
 {{< tdopen >}}
-Architecture and Control (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.8 MB]({{< baseurl >}}/resources/mod3b_lec2))
+Architecture and Control ([PDF - 1.8 MB]({{< baseurl >}}/resources/mod3b_lec2))
 {{< tdclose >}}
 {{< tdopen >}}
 Field
@@ -183,7 +183,7 @@ Field
 11
 {{< tdclose >}}
 {{< tdopen >}}
-Culture, Content and Copyright (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mod3b_lec3))
+Culture, Content and Copyright ([PDF]({{< baseurl >}}/resources/mod3b_lec3))
 {{< tdclose >}}
 {{< tdopen >}}
 Field
@@ -201,7 +201,7 @@ Field
 12
 {{< tdclose >}}
 {{< tdopen >}}
-Challenges for Convergence: Interconnection ([PDF 1]({{< baseurl >}}/resources/mod3c_intro)) (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF 2]({{< baseurl >}}/resources/mod3c_slides))
+Challenges for Convergence: Interconnection ([PDF 1]({{< baseurl >}}/resources/mod3c_intro)) ([PDF 2]({{< baseurl >}}/resources/mod3c_slides))
 {{< tdclose >}}
 {{< tdopen >}}
 Lehr
