@@ -5,6 +5,7 @@ description: This resource is a quick guide to the application design on the int
   ISPs are also explained.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/esd-68j-communications-and-information-policy-spring-2006/0ec49df5135ae42dac7960df6e4693a5_mod1_lec2.pdf
 file_type: application/pdf
+parent_uid: e98f04db-a5fa-fe94-257d-658eb039b064
 resourcetype: Document
 title: mod1_lec2.pdf
 uid: 0ec49df5-135a-e42d-ac79-60df6e4693a5
